@@ -1,4 +1,4 @@
-[![Header](./avilin.png)](./Резюме Ильин Андрей - ML Developer.pdf)
+[![Header](./avilin.png)](./"Резюме Ильин Андрей - ML Developer.pdf")
 # Beginner ML Engineer and Data Scientist
 - Student of the Southern Federal University
 - Working on statistics and analytical problems

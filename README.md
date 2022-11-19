@@ -1,18 +1,20 @@
 [![Header](./avilin.png)](./ML-Developer.pdf)
 # Beginner ML Engineer and Data Scientist
-- Student of the Southern Federal University
-- Working on statistics and analytical problems
-- Participated and won in regional competitions and hackathons on machine learning
-- _*You can view my CV by clicking on the banner_
+- Student of the Peoples' Friendship University of Russia;
+- Working on statistics and analytical problems;
+- Working on computer vision;
+- _*You can view my CV by clicking on the banner._
 
 ## My stack:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=Pandas)
-![OpenCV](https://img.shields.io/badge/-OpenCV-090909?style=for-the-badge&logo=OpenCV)
-![Keras](https://img.shields.io/badge/-Keras-090909?style=for-the-badge&logo=Keras)
+![SKLEARN](https://img.shields.io/badge/-Sklearn-090909?style=for-the-badge&logo=scikitlearn)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-090909?style=for-the-badge&logo=PyTorch)
-![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin)
+![ANDROID](https://img.shields.io/badge/-Android%20Studio-090909?style=for-the-badge&logo=androidstudio)
 
 ## Follow me
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/nosignalx2k)
-[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail)](mailto:kingofsweetsx2k@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/av_ilin)
+[![YMail](https://img.shields.io/badge/-Yandex%20Mail-090909?style=for-the-badge&logo=Gmail)](mailto:a.ilin.v@yandex.ru)

@@ -1,16 +1,18 @@
-### Hi there 👋
+[![Header](./avilin.png)](./Резюме Ильин Андрей - ML Developer.pdf)
+# Beginner ML Engineer and Data Scientist
+- Student of the Southern Federal University
+- Working on statistics and analytical problems
+- Participated and won in regional competitions and hackathons on machine learning
+- _*You can view my CV by clicking on the banner_
 
-<!--
-**av-ilin/av-ilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My stack:
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
+![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=Pandas)
+![OpenCV](https://img.shields.io/badge/-OpenCV-090909?style=for-the-badge&logo=OpenCV)
+![Keras](https://img.shields.io/badge/-Keras-090909?style=for-the-badge&logo=Keras)
+![PyTorch](https://img.shields.io/badge/-PyTorch-090909?style=for-the-badge&logo=PyTorch)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/nosignalx2k)
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail)](mailto:kingofsweetsx2k@gmail.com)

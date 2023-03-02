@@ -27,7 +27,7 @@
 ## Option:
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![Julia](https://img.shields.io/badge/-Julia-090909?style=for-the-badge&logo=julia)
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=oracle)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin)
 ![ANDROID](https://img.shields.io/badge/-Android%20Studio-090909?style=for-the-badge&logo=androidstudio)
 

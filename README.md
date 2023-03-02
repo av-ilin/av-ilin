@@ -24,11 +24,13 @@
 ![SKLEARN](https://img.shields.io/badge/-Sklearn-090909?style=for-the-badge&logo=scikitlearn)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-090909?style=for-the-badge&logo=PyTorch)
 
-## My stack (OPTION):
+## Option:
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![Julia](https://img.shields.io/badge/-Julia-090909?style=for-the-badge&logo=julia)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin)
 ![ANDROID](https://img.shields.io/badge/-Android%20Studio-090909?style=for-the-badge&logo=androidstudio)
+
 
 # Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/av_ilin)

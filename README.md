@@ -1,11 +1,15 @@
-[![Header](./avilin.png)](./Frontend.pdf)
+[![Header](./avilin.png)](https://av-ilin.github.io/)
 
 # Front-end Dev && ML-Engineer && Data Scientist
 - Student of the Peoples' Friendship University of Russia;
 - Сreating web applications and websites;
 - Working on statistics and analytical problems;
 - Working on computer vision;
-- _*You can view my CV by clicking on the banner._
+- _*You can view my page by clicking on the banner._
+
+## CV
+![ML](https://img.shields.io/badge/-ML-090909?style=for-the-badge&logo=html5)(./Frontend.pdf)
+![WEB](https://img.shields.io/badge/-WEB-090909?style=for-the-badge&logo=javascript)(./ML-Engineer.pdf)
 
 ## My stack (WEB):
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)

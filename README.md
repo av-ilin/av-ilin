@@ -8,8 +8,8 @@
 - _*You can view my page by clicking on the banner._
 
 ## CV
-![ML](https://img.shields.io/badge/-ML-090909?style=for-the-badge&logo=html5)(./Frontend.pdf)
-![WEB](https://img.shields.io/badge/-WEB-090909?style=for-the-badge&logo=javascript)(./ML-Engineer.pdf)
+[![Front-end](https://img.shields.io/badge/-WEB-090909?style=for-the-badge&logo=react)](./ML-Engineer.pdf)
+[![Machine Learning](https://img.shields.io/badge/-ML-090909?style=for-the-badge&logo=pytorch)](./Frontend.pdf)
 
 ## My stack (WEB):
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)

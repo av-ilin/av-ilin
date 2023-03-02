@@ -6,9 +6,16 @@
 - _*You can view my CV by clicking on the banner._
 
 ## My stack (WEB):
-![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML)
-![JS](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=javascript)
-![CSS3](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=css)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=hrml5)
+![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3)
+![FlexBox](https://img.shields.io/badge/-FlexBox-090909?style=for-the-badge&logo=css3)
+![Grid](https://img.shields.io/badge/-Grid-090909?style=for-the-badge&logo=css3)
+![Boostrap](https://img.shields.io/badge/-Boostrap-090909?style=for-the-badge&logo=boostrap)
+![Bulma](https://img.shields.io/badge/-Bulma-090909?style=for-the-badge&logo=bulma)
+![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
+![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)
+
 
 
 # Beginner ML Engineer and Data Scientist

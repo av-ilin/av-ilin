@@ -8,7 +8,7 @@
 - _*You can view my page by clicking on the banner._
 
 ## CV
-[![WEB](https://img.shields.io/badge/-Front-end-090909?style=for-the-badge&logo=react)](./ML-Engineer.pdf)
+[![WEB](https://img.shields.io/badge/-Frontend-090909?style=for-the-badge&logo=react)](./ML-Engineer.pdf)
 [![ML](https://img.shields.io/badge/-Machine%20Learning-090909?style=for-the-badge&logo=pytorch)](./Frontend.pdf)
 
 ## My stack (WEB):

@@ -7,10 +7,6 @@
 - Working on computer vision;
 - _*You can view my page by clicking on the banner._
 
-## CV
-[![WEB](https://img.shields.io/badge/-Frontend-090909?style=for-the-badge&logo=react)](./Frontend.pdf)
-[![ML](https://img.shields.io/badge/-Machine%20Learning-090909?style=for-the-badge&logo=pytorch)](./ML-Developer.pdf)
-
 ## My stack (WEB):
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
 ![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
@@ -35,8 +31,11 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin)
 ![ANDROID](https://img.shields.io/badge/-Android%20Studio-090909?style=for-the-badge&logo=androidstudio)
 
+# CV
+[![WEB](https://img.shields.io/badge/-Frontend-090909?style=for-the-badge&logo=react)](./Frontend.pdf)
+[![ML](https://img.shields.io/badge/-Machine%20Learning-090909?style=for-the-badge&logo=pytorch)](./ML-Developer.pdf)
 
-# Follow me
+# Contact
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/av_ilin)
 [![YMail](https://img.shields.io/badge/-Yandex%20Mail-090909?style=for-the-badge&logo=Gmail)](mailto:a.ilin.v@yandex.ru)
 

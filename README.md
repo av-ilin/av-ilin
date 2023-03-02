@@ -1,6 +1,6 @@
 [![Header](./avilin.png)](./Frontend.pdf)
 
-# Junior Front-end Developer && Beginner ML Engineer and Data Scientist
+# Front-end Dev && ML-Engineer && Data Scientist
 - Student of the Peoples' Friendship University of Russia;
 - Сreating web applications and websites;
 - Working on statistics and analytical problems;

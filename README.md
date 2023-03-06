@@ -1,4 +1,4 @@
-[![Header](./avilin.png)](https://av-ilin.github.io/)
+[![Header](./avilin.png)](https://av-ilin.github.io.)
 
 # Front-end Dev && ML-Engineer && Data Scientist
 - Student of the Peoples' Friendship University of Russia;

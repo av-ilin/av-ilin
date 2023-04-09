@@ -1,6 +1,6 @@
 [![Header](./avilin.png)](https://av-ilin.github.io.)
 
-# Front-end Dev && ML-Engineer && Data Scientist
+# Frontend Developer && ML-Engineer
 - Student of the Peoples' Friendship University of Russia;
 - Сreating web applications and websites;
 - Working on statistics and analytical problems;

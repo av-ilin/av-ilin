@@ -17,6 +17,7 @@
 ![Bulma](https://img.shields.io/badge/-Bulma-090909?style=for-the-badge&logo=bulma)
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)
+![React.js](https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=react)
 
 ## My stack (ML):
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
@@ -24,12 +25,14 @@
 ![SKLEARN](https://img.shields.io/badge/-Sklearn-090909?style=for-the-badge&logo=scikitlearn)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-090909?style=for-the-badge&logo=PyTorch)
 
-## Option:
+## Languages:
+![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![Julia](https://img.shields.io/badge/-Julia-090909?style=for-the-badge&logo=julia)
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=oracle)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin)
-![ANDROID](https://img.shields.io/badge/-Android%20Studio-090909?style=for-the-badge&logo=androidstudio)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=oracle)
+![Julia](https://img.shields.io/badge/-Julia-090909?style=for-the-badge&logo=julia)
+
 
 # CV
 [![WEB](https://img.shields.io/badge/-Frontend-090909?style=for-the-badge&logo=react)](./Frontend.pdf)

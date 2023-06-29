@@ -26,9 +26,11 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=Pandas)
 ![SKLEARN](https://img.shields.io/badge/-Sklearn-090909?style=for-the-badge&logo=scikitlearn)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-090909?style=for-the-badge&logo=PyTorch)
+![TF](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow)
 
 ## Languages:
 ![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
+![TS](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin)
@@ -36,12 +38,6 @@
 ![Julia](https://img.shields.io/badge/-Julia-090909?style=for-the-badge&logo=julia)
 
 
-# CV
-[![WEB](https://img.shields.io/badge/-Frontend-090909?style=for-the-badge&logo=react)](./Frontend.pdf)
-[![ML](https://img.shields.io/badge/-Machine%20Learning-090909?style=for-the-badge&logo=pytorch)](./ML-Developer.pdf)
-
 # Contact
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/av_ilin)
 [![YMail](https://img.shields.io/badge/-Yandex%20Mail-090909?style=for-the-badge&logo=Gmail)](mailto:a.ilin.v@yandex.ru)
-
-
